@@ -1,8 +1,7 @@
-"""
-Requirements file for the social media agent system.
 
-This file lists all the Python package dependencies required to run the system.
-"""
+# Requirements file for the social media agent system.
+
+# This file lists all the Python package dependencies required to run the system.
 
 # Core dependencies
 python-dotenv>=1.0.0
