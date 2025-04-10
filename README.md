@@ -33,7 +33,7 @@ The system is organized into several key components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/social-media-agent.git
+git clone https://github.com/tharev/social-media-agent.git
 cd social-media-agent
 ```
 
